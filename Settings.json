@@ -1,0 +1,1 @@
+{"Settings":{"General":{"HeatMapStep":3,"BruteForceStep":25,"UseBruteForce":false,"EnsureOptimality":true},"PathLossModel":{"LOS":"1.04","NLOS":"2.52","BreakPointDist":"400","MinLaptopThresh":"-90.0","MinMobileThresh":"-60.0"}}}
